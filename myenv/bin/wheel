@@ -1,5 +1,4 @@
-#!/home/ben/projects/dashboard/myenv/bin/python3
-
+#!/Users/hollywitchey/projects/travel_website/myenv/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys
